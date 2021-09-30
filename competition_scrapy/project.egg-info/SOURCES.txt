@@ -1,0 +1,14 @@
+setup.py
+competition_scrapy/__init__.py
+competition_scrapy/items.py
+competition_scrapy/middlewares.py
+competition_scrapy/pipelines.py
+competition_scrapy/settings.py
+competition_scrapy/spiders/__init__.py
+competition_scrapy/spiders/appsite.py
+competition_scrapy/spiders/appsiteddebug.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
